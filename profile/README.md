@@ -19,7 +19,7 @@ La partie logicielle de Wall-E est divisée en plusieurs grands pôles de dével
 
 ---
 
-## 📂 Architecture des Dépôts (Repositories)
+## 📂 Architecture des Repositories
 
 Pour garder un code propre et modulaire, notre projet est découpé ainsi :
 
